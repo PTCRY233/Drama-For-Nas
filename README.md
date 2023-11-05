@@ -1,6 +1,6 @@
 **Drama-For-Nas**
 </br>
-<font color = red size = 2 face = "华文行楷">为你的Nas部署程序</font>
+<font size=2>为你的Nas部署程序</font>
 </br>
 ===
 </br>支持的程序：***Alist、DDNS-GO、SakuraFrp、syncthing、Clash、Aria2***</br>
